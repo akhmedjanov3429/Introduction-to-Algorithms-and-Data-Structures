@@ -1,0 +1,16 @@
+
+Montehall_simplified.java:20: error: variable percentage1 might not have been initialized
+            if(first==prize){percentage1+=100/(float)n;}
+                             ^
+Montehall_simplified.java:22: error: variable percentage2 might not have been initialized
+            if(second==prize){percentage2+=100/(float)n;}
+                              ^
+Montehall_simplified.java:25: error: variable percentage1 might not have been initialized
+        System.out.println("Sucess rate of no switch: " + df.format(percentage1) + "%");
+                                                                    ^
+Montehall_simplified.java:26: error: variable percentage2 might not have been initialized
+        System.out.println("Sucess rate of switching gate: " + df.format(percentage2) + "%");
+                                                                         ^
+4 errors
+
+
