@@ -1,0 +1,43 @@
+   PASS : Calculation.1.demo.out -- /home/cs301/RELEASE-cs201-repo3-sp-2022/book-solution/sols-repo/chap1/section-1.2/E-1.2.22-Calculation/Calculation.1.demo.out 
+   PASS : Calculation.1.out -- /home/cs301/RELEASE-cs201-repo3-sp-2022/book-solution/sols-repo/chap1/section-1.2/E-1.2.22-Calculation/Calculation.1.out 
+   FAIL : Calculation.2.out -- /home/cs301/RELEASE-cs201-repo3-sp-2022/book-solution/sols-repo/chap1/section-1.2/E-1.2.22-Calculation/Calculation.2.out 
+diff stderr(up to 10000 lines):                                           ......
+==============================
+    + Exception in thread "main" java.lang.NumberFormatException: For input string: "40.63"
+    + 	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+    + 	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+    + 	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+    + 	at Calculation.main(Calculation.java:7)
+    + Command exited with non-zero status 1
+
+   FAIL : Calculation.3.out -- /home/cs301/RELEASE-cs201-repo3-sp-2022/book-solution/sols-repo/chap1/section-1.2/E-1.2.22-Calculation/Calculation.3.out 
+diff stderr(up to 10000 lines):                                           ......
+==============================
+    + Exception in thread "main" java.lang.NumberFormatException: For input string: "51.87"
+    + 	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+    + 	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+    + 	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+    + 	at Calculation.main(Calculation.java:7)
+    + Command exited with non-zero status 1
+
+   FAIL : Calculation.4.out -- /home/cs301/RELEASE-cs201-repo3-sp-2022/book-solution/sols-repo/chap1/section-1.2/E-1.2.22-Calculation/Calculation.4.out 
+diff stderr(up to 10000 lines):                                           ......
+==============================
+    + Exception in thread "main" java.lang.NumberFormatException: For input string: "47.36"
+    + 	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+    + 	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+    + 	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+    + 	at Calculation.main(Calculation.java:7)
+    + Command exited with non-zero status 1
+
+   FAIL : Calculation.5.out -- /home/cs301/RELEASE-cs201-repo3-sp-2022/book-solution/sols-repo/chap1/section-1.2/E-1.2.22-Calculation/Calculation.5.out 
+diff stderr(up to 10000 lines):                                           ......
+==============================
+    + Exception in thread "main" java.lang.NumberFormatException: For input string: "20.170154169992543"
+    + 	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+    + 	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+    + 	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+    + 	at Calculation.main(Calculation.java:7)
+    + Command exited with non-zero status 1
+
+

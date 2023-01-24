@@ -1,0 +1,43 @@
+0.07user 0.01system 0:00.04elapsed 179%CPU (0avgtext+0avgdata 43396maxresident)k
+0inputs+72outputs (0major+4808minor)pagefaults 0swaps
+
+0.07user 0.02system 0:00.06elapsed 161%CPU (0avgtext+0avgdata 43444maxresident)k
+0inputs+72outputs (0major+4744minor)pagefaults 0swaps
+
+Exception in thread "main" java.lang.NumberFormatException: For input string: "40.63"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+	at Calculation.main(Calculation.java:7)
+Command exited with non-zero status 1
+0.07user 0.02system 0:00.06elapsed 160%CPU (0avgtext+0avgdata 43144maxresident)k
+0inputs+72outputs (0major+4777minor)pagefaults 0swaps
+
+Exception in thread "main" java.lang.NumberFormatException: For input string: "51.87"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+	at Calculation.main(Calculation.java:7)
+Command exited with non-zero status 1
+0.05user 0.03system 0:00.05elapsed 144%CPU (0avgtext+0avgdata 42456maxresident)k
+0inputs+72outputs (0major+4674minor)pagefaults 0swaps
+
+Exception in thread "main" java.lang.NumberFormatException: For input string: "47.36"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+	at Calculation.main(Calculation.java:7)
+Command exited with non-zero status 1
+0.06user 0.03system 0:00.06elapsed 167%CPU (0avgtext+0avgdata 43124maxresident)k
+0inputs+72outputs (0major+4818minor)pagefaults 0swaps
+
+Exception in thread "main" java.lang.NumberFormatException: For input string: "20.170154169992543"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+	at Calculation.main(Calculation.java:7)
+Command exited with non-zero status 1
+0.04user 0.04system 0:00.05elapsed 153%CPU (0avgtext+0avgdata 42448maxresident)k
+0inputs+72outputs (0major+4625minor)pagefaults 0swaps
+
+

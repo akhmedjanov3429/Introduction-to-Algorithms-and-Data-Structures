@@ -1,0 +1,7 @@
+
+EuclideanDistance.java:7: error: ';' expected
+        double distance = Math.sqrt(x+y)
+                                        ^
+1 error
+
+
