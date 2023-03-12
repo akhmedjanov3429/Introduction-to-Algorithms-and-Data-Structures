@@ -1,0 +1,7 @@
+
+Chop.java:13: error: incompatible types: possible lossy conversion from int to short
+            n = n >> 1;
+                  ^
+1 error
+
+
