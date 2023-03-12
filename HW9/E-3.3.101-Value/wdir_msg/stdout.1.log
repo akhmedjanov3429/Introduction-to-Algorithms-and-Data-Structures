@@ -1,0 +1,17 @@
+a = 1
+b = 2.0
+c = abc
+a+a = 2
+b+b = 4.0
+c+c = abcabc
+a+b = 3.0
+a+c = 1abc
+b+c = 2.0abc
+c+b = abc2.0
+b+c = 2.0abc
+c+b = abc2.0
+a+a+a = 3
+b+b+b = 6.0
+c+c+c = abcabcabc
+vx = [1, 2.0, abc]
+

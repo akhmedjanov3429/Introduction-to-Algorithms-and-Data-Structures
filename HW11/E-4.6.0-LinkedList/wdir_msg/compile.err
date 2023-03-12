@@ -1,0 +1,12 @@
+
+LinkedList.java:253: error: missing return statement
+    }
+    ^
+LinkedList.java:261: error: missing return statement
+    }
+    ^
+Note: LinkedList.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+2 errors
+
+

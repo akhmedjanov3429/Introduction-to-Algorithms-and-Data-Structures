@@ -1,0 +1,28 @@
+find: false
+add: ...  4 ... done
+add: ...  3 ... done
+show:  3 -> 4 -> nil
+deleteKth k=1
+show:  3 -> nil
+add: ...  5 ... done
+stack: 
+head: 5
+remove: ... done
+head: 3
+add: ...  5 ... done
+add: ...  6 ... done
+size: 3
+show:  6 -> 5 -> 3 -> nil
+count: 3
+max: 6
+head: 6
+find: true
+find: true
+show:  6 -> 5 -> 3 -> nil
+deleteKth_iter k=0
+show:  5 -> 3 -> nil
+deleteKth_iter k=1
+show:  5 -> nil
+deleteKth_iter k=0
+show:  nil
+

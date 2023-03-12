@@ -1,0 +1,7 @@
+A : Rectangle 3.0x4.0 centered at (1.0, 2.0).   perimeter = 14.0, area = 12.0
+B : Rectangle 4.0x1.0 centered at (5.0, -2.0).   perimeter = 10.0, area = 4.0
+A contains B: false
+B contains A: false
+A intersects B: false
+B intersects A: false
+

@@ -1,0 +1,132 @@
+show: 3 4
+deleteKth k=1
+show: 3
+stack: 
+head: 5
+head: 3
+size: 3
+show: 6 5 3
+count: 3
+max: 6
+head: 6
+show: 3 4 6 5 3
+deleteKth k=1
+show: 3 6 5 3
+stack: 1
+head: 5
+head: 3
+size: 6
+show: 6 5 3 6 5 3
+count: 6
+max: 6
+head: 6
+show: 3 4 6 5 3 6 5 3
+deleteKth k=1
+show: 3 6 5 3 6 5 3
+stack: 1 1
+head: 5
+head: 3
+size: 9
+show: 6 5 3 6 5 3 6 5 3
+count: 9
+max: 6
+head: 6
+show: 3 4 6 5 3 6 5 3 6 5 3
+deleteKth k=1
+show: 3 6 5 3 6 5 3 6 5 3
+stack: 1 1 1
+head: 5
+head: 3
+size: 12
+show: 6 5 3 6 5 3 6 5 3 6 5 3
+count: 12
+max: 6
+head: 6
+show: 3 4 6 5 3 6 5 3 6 5 3 6 5 3
+deleteKth k=1
+show: 3 6 5 3 6 5 3 6 5 3 6 5 3
+stack: 1 1 1 1
+head: 5
+head: 3
+size: 15
+show: 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3
+count: 15
+max: 6
+head: 6
+show: 3 4 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3
+deleteKth k=1
+show: 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3
+stack: 1 1 1 1 1
+head: 5
+head: 3
+size: 18
+show: 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3
+count: 18
+max: 6
+head: 6
+show: 3 4 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3
+deleteKth k=1
+show: 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3
+stack: 1 1 1 1 1 1
+head: 5
+head: 3
+size: 21
+show: 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3
+count: 21
+max: 6
+head: 6
+show: 3 4 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3
+deleteKth k=1
+show: 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3
+stack: 1 1 1 1 1 1 1
+head: 5
+head: 3
+size: 24
+show: 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3
+count: 24
+max: 6
+head: 6
+show: 3 4 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3
+deleteKth k=1
+show: 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3
+stack: 1 1 1 1 1 1 1 1
+head: 5
+head: 3
+size: 27
+show: 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3
+count: 27
+max: 6
+head: 6
+show: 3 4 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3
+deleteKth k=1
+show: 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3
+stack: 1 1 1 1 1 1 1 1 1
+head: 5
+head: 3
+size: 30
+show: 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3
+count: 30
+max: 6
+head: 6
+show: 3 4 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3
+deleteKth k=1
+show: 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3
+stack: 1 1 1 1 1 1 1 1 1 1
+head: 5
+head: 3
+size: 33
+show: 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3
+count: 33
+max: 6
+head: 6
+show: 3 4 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3
+deleteKth k=1
+show: 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3
+stack: 1 1 1 1 1 1 1 1 1 1 1
+head: 5
+head: 3
+size: 36
+show: 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3 6 5 3
+count: 36
+max: 6
+head: 6

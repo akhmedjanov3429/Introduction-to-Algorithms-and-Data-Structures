@@ -1,0 +1,27 @@
+5 find
+0 1 2 3 4 add add add add add
+show
+1 remove
+show
+1 deleteKth 
+show
+5 add
+show
+6 7 
+stack
+head
+remove
+head
+8  add 9 add
+size
+show
+count
+max
+head
+3 find 
+5 find
+show
+0 deleteKth_iter show
+1 deleteKth_iter show
+0 deleteKth_iter show
+3 deleteKth_iter show
