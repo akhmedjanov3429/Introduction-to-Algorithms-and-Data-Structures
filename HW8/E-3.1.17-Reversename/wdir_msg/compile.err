@@ -1,0 +1,9 @@
+
+Reversename.java:16: error: cannot find symbol
+        String[] parts = domain.split("\\.");
+                         ^
+  symbol:   variable domain
+  location: class Reversename
+1 error
+
+
