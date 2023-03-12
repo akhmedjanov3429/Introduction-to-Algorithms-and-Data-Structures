@@ -1,0 +1,25 @@
+program Chop
+// Input:    N
+// Output:   The unique set of powers of 2 which sum to N
+// Remarks:  This program uses the fact that numbers in the toy machine are
+//           represented by 16-bit signed two's complement numbers.  To learn
+//           more about signed two's complement numbers, please see Professor
+//           Wayne's notes on the TOY machine.  Note: a non-positive value of N
+//           will cause undefined behavior.
+// -----------------------------------------------------------------------------
+
+// Initialize
+10: 82FF   read R[2]                     
+
+// Check for non-positive values
+11: D213   if (R[2] > 0) goto 13         
+12: 0000   halt                          
+
+// Loop
+13: 2302   R[3] <- -R[2]                 
+14: 3423   R[4] <- R[2] & R[3]           
+15: 94FF   write R[4]                    
+16: 2224   R[2] <- R[2] - R[4]           
+17: D211   if (R[2] > 0) goto 11         
+
+18: 0000   halt                          
