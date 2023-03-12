@@ -1,0 +1,14 @@
+
+AverageStd.java:8: error: cannot find symbol
+        ArrayList<Double> input = new ArrayList<Double>();
+        ^
+  symbol:   class ArrayList
+  location: class AverageStd
+AverageStd.java:8: error: cannot find symbol
+        ArrayList<Double> input = new ArrayList<Double>();
+                                      ^
+  symbol:   class ArrayList
+  location: class AverageStd
+2 errors
+
+

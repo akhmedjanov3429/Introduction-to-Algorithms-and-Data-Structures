@@ -1,0 +1,7 @@
+
+IntegerProperty.java:72: error: variable i is already defined in method factor(int)
+            return factors.stream().mapToInt(i -> i).toArray();}
+                                             ^
+1 error
+
+

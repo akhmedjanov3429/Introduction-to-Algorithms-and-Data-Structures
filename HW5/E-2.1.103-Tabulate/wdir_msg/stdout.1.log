@@ -1,0 +1,92 @@
+Debug prints(content of csv file)
+------------------------------------------------------------
+[, No., Email, Unnamed: 1, Location, Time Zone, on campus, Will attend lecture, Lab 1 availability (1:15-2:30pm), Lab 2 availablity (4:15-5:30pm)]
+[0, 0, boen.liu@dukekunshan.edu.cn, , Xiamen,FuJian, GMT+8, N, Y, N, Y]
+[1, 1, boqing.zheng@dukekunshan.edu.cn, , Kunshan,Jiangsu, GMT+8, Y, Y, Y, Y]
+[2, 2, chenhao.ge@dukekunshan.edu.cn, , Suzhou,Jiangsu, GMT+8, N, Y, Y, N]
+[3, 3, chenyang.lu@dukekunshan.edu.cn, , , , , , , ]
+[4, 5, genghong.huang@dukekunshan.edu.cn, , , , , , , ]
+[5, 6, gezhi.wang@dukekunshan.edu.cn, , Kunshan,Jiangsu, GMT+8, Y, Y, N, Y]
+[6, 7, hongkai.zhu@dukekunshan.edu.cn, , Kunshan,Jiangsu, GMT+8, Y, Y, N, Y]
+[7, 8, jiaheng.zhang@dukekunshan.edu.cn, , Kunshan,Jiangsu, GMT+8, Y, Y, N, Y]
+[8, 9, jingheng.huan@dukekunshan.edu.cn, , Kunshan, Jiangsu, GMT+8, Y, Y, Y, N]
+[9, 10, jun.tang@dukekunshan.edu.cn, , Kunshan, Jiangsu, GMT+8, Y, Y, N, Y]
+[10, 11, junhao.zhang@dukekunshan.edu.cn, , Kunshan, Jiangsu, GMT+8, Y, Y, Y, N]
+[11, 12, lexi.fu@dukekunshan.edu.cn, , Kunshan,Jiangsu, GMT+8, Y, Y, Y, N]
+[12, 13, mengxiang.liu@dukekunshan.edu.cn, , Chengdu, Sichuan, GMT+8, N, Y, Y, ]
+[13, 14, mohamedhabib.debaya@dukekunshan.edu.cn, , Tunisia, GMT+1, N, N, N, Y]
+[14, 15, peng.wang853@dukekunshan.edu.cn, , , , , , , ]
+[15, 16, qixuan.wang@dukekunshan.edu.cn, , Luoyang, Henan, GMT+8, N, Y, N, Y]
+[16, 17, rongfan.liu@dukekunshan.edu.cn, , Wuhu, Anhui, GMT+8, N, Y, Y, Y]
+[17, 18, sakurako.kida@dukekunshan.edu.cn, , Kyoto, Japan, GMT+9, N, Y, Y, N]
+[18, 19, shanru.lin@dukekunshan.edu.cn, , Kunshan,Jiangsu, GMT+8, Y, Y, N, Y]
+[19, 20, shiran.yuan@dukekunshan.edu.cn, , , , , , , ]
+[20, 21, sichang.he@dukekunshan.edu.cn, , Kunshan,Jiangsu, GMT+8, Y, probably, Y, Y]
+[21, 22, siran.luo@dukekunshan.edu.cn, , Nanjing,Jiangsu, GMT+8, N, Y, , Y]
+[22, 23, siying.song@dukekunshan.edu.cn, , Beijing, GMT+8, N, Y, Y, Y]
+[23, 24, tergel.amarjargal@dukekunshan.edu.cn, , Ulaanbaatar, Mongolia, GMT+8, N, Y, Y, N]
+[24, 25, trailokaya.bajgain@dukekunshan.edu.cn, , Kathmandu,Nepal, GMT+5:45, N, Y, Y, ]
+[25, 26, weicheng.zheng@dukekunshan.edu.cn, , Kunshan,Jiangsu, GMT+8, Y, Y, Y, Y]
+[26, 27, weitian.xue@dukekunshan.edu.cn, , Nantong,Jiangsu, GMT+8, N, Y, Y, Y]
+[27, 28, xingyu.shen@dukekunshan.edu.cn, , Kunshan,Jiangsu, GMT+8, Y, Y, Y, N]
+[28, 29, xuanang.zhou@dukekunshan.edu.cn, , , , , , , ]
+[29, 30, yantao.mei@dukekunshan.edu.cn, , Kunshan,Jiangsu, GMT+8, Y, Y, , Y]
+[30, 31, yifan.li172@dukekunshan.edu.cn, , Kunshan Jiangsu, GMT+8, Y, Y, Y, N]
+[31, 32, yifu.wang875@dukekunshan.edu.cn, , Shanghai, GMT+8, N, Y, Y, N]
+[32, 33, yiwei.zhao293@dukekunshan.edu.cn, , Kunshan,Jiangsu, GMT+8, Y, Y, N, Y]
+[33, 34, yiyang.zhang653@dukekunshan.edu.cn, , Kunshan,Jiangsu , GMT+8, Y, Y, N, Y]
+[34, 35, yuan.shan@dukekunshan.edu.cn, , Beijing, GMT+8, N, Y, Y, Y]
+[35, 36, yuanzhi.lei@dukekunshan.edu.cn, , Beijing, GMT+8, N, Y, , ]
+[36, 37, yueqian.lin@dukekunshan.edu.cn, , Kunshan,Jiangsu, GMT+8, Y, Y, Y, N]
+[37, 38, yuhao.xue902@dukekunshan.edu.cn, , , , , , , ]
+[38, 39, yuhe.fu@dukekunshan.edu.cn, , Beijing, GMT+8, N, Y, Y, Y]
+[39, 40, yuxiang.he594@dukekunshan.edu.cn, , Shanghai, GMT+8, N, Y, N, Y]
+[40, 41, zhe.niu@dukekunshan.edu.cn, , Kunshan,Jiangsu , GMT+8, Y, Y, N, Y]
+[41, 42, zhiyun.lu820@dukekunshan.edu.cn, , Kunshan,Jiangsu , GMT+8, Y, Y, , ]
+
+
+    |  No.  |                                   Email  |  Unnamed: 1  |               Location  |  Time Zone  |  on campus  |  Will attend lecture  |  Lab 1 availability (1:15-2:30pm)  |  Lab 2 availablity (4:15-5:30pm)
+----+-------+------------------------------------------+--------------+-------------------------+-------------+-------------+-----------------------+------------------------------------+---------------------------------
+ 0  |    0  |             boen.liu@dukekunshan.edu.cn  |              |          Xiamen,FuJian  |      GMT+8  |          N  |                    Y  |                                 N  |                                Y
+ 1  |    1  |         boqing.zheng@dukekunshan.edu.cn  |              |        Kunshan,Jiangsu  |      GMT+8  |          Y  |                    Y  |                                 Y  |                                Y
+ 2  |    2  |           chenhao.ge@dukekunshan.edu.cn  |              |         Suzhou,Jiangsu  |      GMT+8  |          N  |                    Y  |                                 Y  |                                N
+ 3  |    3  |          chenyang.lu@dukekunshan.edu.cn  |              |                         |             |             |                       |                                    |                                 
+ 4  |    5  |       genghong.huang@dukekunshan.edu.cn  |              |                         |             |             |                       |                                    |                                 
+ 5  |    6  |           gezhi.wang@dukekunshan.edu.cn  |              |        Kunshan,Jiangsu  |      GMT+8  |          Y  |                    Y  |                                 N  |                                Y
+ 6  |    7  |          hongkai.zhu@dukekunshan.edu.cn  |              |        Kunshan,Jiangsu  |      GMT+8  |          Y  |                    Y  |                                 N  |                                Y
+ 7  |    8  |        jiaheng.zhang@dukekunshan.edu.cn  |              |        Kunshan,Jiangsu  |      GMT+8  |          Y  |                    Y  |                                 N  |                                Y
+ 8  |    9  |        jingheng.huan@dukekunshan.edu.cn  |              |       Kunshan, Jiangsu  |      GMT+8  |          Y  |                    Y  |                                 Y  |                                N
+ 9  |   10  |             jun.tang@dukekunshan.edu.cn  |              |       Kunshan, Jiangsu  |      GMT+8  |          Y  |                    Y  |                                 N  |                                Y
+10  |   11  |         junhao.zhang@dukekunshan.edu.cn  |              |       Kunshan, Jiangsu  |      GMT+8  |          Y  |                    Y  |                                 Y  |                                N
+11  |   12  |              lexi.fu@dukekunshan.edu.cn  |              |        Kunshan,Jiangsu  |      GMT+8  |          Y  |                    Y  |                                 Y  |                                N
+12  |   13  |        mengxiang.liu@dukekunshan.edu.cn  |              |       Chengdu, Sichuan  |      GMT+8  |          N  |                    Y  |                                 Y  |                                 
+13  |   14  |  mohamedhabib.debaya@dukekunshan.edu.cn  |              |                Tunisia  |      GMT+1  |          N  |                    N  |                                 N  |                                Y
+14  |   15  |         peng.wang853@dukekunshan.edu.cn  |              |                         |             |             |                       |                                    |                                 
+15  |   16  |          qixuan.wang@dukekunshan.edu.cn  |              |         Luoyang, Henan  |      GMT+8  |          N  |                    Y  |                                 N  |                                Y
+16  |   17  |          rongfan.liu@dukekunshan.edu.cn  |              |            Wuhu, Anhui  |      GMT+8  |          N  |                    Y  |                                 Y  |                                Y
+17  |   18  |        sakurako.kida@dukekunshan.edu.cn  |              |           Kyoto, Japan  |      GMT+9  |          N  |                    Y  |                                 Y  |                                N
+18  |   19  |           shanru.lin@dukekunshan.edu.cn  |              |        Kunshan,Jiangsu  |      GMT+8  |          Y  |                    Y  |                                 N  |                                Y
+19  |   20  |          shiran.yuan@dukekunshan.edu.cn  |              |                         |             |             |                       |                                    |                                 
+20  |   21  |           sichang.he@dukekunshan.edu.cn  |              |        Kunshan,Jiangsu  |      GMT+8  |          Y  |             probably  |                                 Y  |                                Y
+21  |   22  |            siran.luo@dukekunshan.edu.cn  |              |        Nanjing,Jiangsu  |      GMT+8  |          N  |                    Y  |                                    |                                Y
+22  |   23  |          siying.song@dukekunshan.edu.cn  |              |                Beijing  |      GMT+8  |          N  |                    Y  |                                 Y  |                                Y
+23  |   24  |    tergel.amarjargal@dukekunshan.edu.cn  |              |  Ulaanbaatar, Mongolia  |      GMT+8  |          N  |                    Y  |                                 Y  |                                N
+24  |   25  |   trailokaya.bajgain@dukekunshan.edu.cn  |              |        Kathmandu,Nepal  |   GMT+5:45  |          N  |                    Y  |                                 Y  |                                 
+25  |   26  |       weicheng.zheng@dukekunshan.edu.cn  |              |        Kunshan,Jiangsu  |      GMT+8  |          Y  |                    Y  |                                 Y  |                                Y
+26  |   27  |          weitian.xue@dukekunshan.edu.cn  |              |        Nantong,Jiangsu  |      GMT+8  |          N  |                    Y  |                                 Y  |                                Y
+27  |   28  |          xingyu.shen@dukekunshan.edu.cn  |              |        Kunshan,Jiangsu  |      GMT+8  |          Y  |                    Y  |                                 Y  |                                N
+28  |   29  |         xuanang.zhou@dukekunshan.edu.cn  |              |                         |             |             |                       |                                    |                                 
+29  |   30  |           yantao.mei@dukekunshan.edu.cn  |              |        Kunshan,Jiangsu  |      GMT+8  |          Y  |                    Y  |                                    |                                Y
+30  |   31  |          yifan.li172@dukekunshan.edu.cn  |              |        Kunshan Jiangsu  |      GMT+8  |          Y  |                    Y  |                                 Y  |                                N
+31  |   32  |         yifu.wang875@dukekunshan.edu.cn  |              |               Shanghai  |      GMT+8  |          N  |                    Y  |                                 Y  |                                N
+32  |   33  |        yiwei.zhao293@dukekunshan.edu.cn  |              |        Kunshan,Jiangsu  |      GMT+8  |          Y  |                    Y  |                                 N  |                                Y
+33  |   34  |      yiyang.zhang653@dukekunshan.edu.cn  |              |       Kunshan,Jiangsu   |      GMT+8  |          Y  |                    Y  |                                 N  |                                Y
+34  |   35  |            yuan.shan@dukekunshan.edu.cn  |              |                Beijing  |      GMT+8  |          N  |                    Y  |                                 Y  |                                Y
+35  |   36  |          yuanzhi.lei@dukekunshan.edu.cn  |              |                Beijing  |      GMT+8  |          N  |                    Y  |                                    |                                 
+36  |   37  |          yueqian.lin@dukekunshan.edu.cn  |              |        Kunshan,Jiangsu  |      GMT+8  |          Y  |                    Y  |                                 Y  |                                N
+37  |   38  |         yuhao.xue902@dukekunshan.edu.cn  |              |                         |             |             |                       |                                    |                                 
+38  |   39  |              yuhe.fu@dukekunshan.edu.cn  |              |                Beijing  |      GMT+8  |          N  |                    Y  |                                 Y  |                                Y
+39  |   40  |        yuxiang.he594@dukekunshan.edu.cn  |              |               Shanghai  |      GMT+8  |          N  |                    Y  |                                 N  |                                Y
+40  |   41  |              zhe.niu@dukekunshan.edu.cn  |              |       Kunshan,Jiangsu   |      GMT+8  |          Y  |                    Y  |                                 N  |                                Y
+41  |   42  |         zhiyun.lu820@dukekunshan.edu.cn  |              |       Kunshan,Jiangsu   |      GMT+8  |          Y  |                    Y  |                                    |                                 
+

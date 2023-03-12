@@ -1,0 +1,12 @@
+a: 28405
+b: 15894
+isPrime(a): false
+isPrime(b): false
+isRelativePrime(a+b): true
+distinct factors of (a): 5 13 19 23 
+distinct factors of (b): 2 3 883 
+gcd(a+b): 1
+lcm(a+b): 451469070
+phi(a): 19008
+phi(b): 5292
+
