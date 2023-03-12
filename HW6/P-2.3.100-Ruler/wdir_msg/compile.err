@@ -1,0 +1,9 @@
+
+Ruler.java:16: error: cannot find symbol
+        System.out.println(String.join("", Collections.nCopies(n, "=")));
+                                           ^
+  symbol:   variable Collections
+  location: class Ruler
+1 error
+
+
