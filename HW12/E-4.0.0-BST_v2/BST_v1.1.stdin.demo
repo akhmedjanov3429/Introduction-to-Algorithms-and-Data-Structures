@@ -1,0 +1,262 @@
+15 get
+6
+14
+put
+26
+8
+inOrder rangeCount
+26
+rank
+8
+rank
+1
+16
+put
+10
+2
+inOrder rangeCount
+10
+rank
+2
+rank
+23
+11
+put
+13
+27
+put
+19
+11
+put
+13
+9
+put
+14
+5
+put
+21
+11
+put
+14
+24
+put
+14
+19
+put
+1
+18
+put
+7
+4
+put
+29
+9
+put
+remove_max_r 
+24
+28
+put
+10
+21
+put
+remove_min_r 
+13 floor
+min
+20
+18
+put
+27
+16
+put
+26
+7
+put
+7 get
+1
+15
+put
+26
+19
+put
+17
+29
+put
+4
+12
+put
+balanced
+29
+19
+put
+3
+24
+put
+14
+5
+put
+11
+13
+put
+14 get
+21
+8
+put
+19
+16
+put
+27
+3
+put
+14
+9
+put
+21
+20
+put
+24
+5
+put
+24
+11
+inOrder rangeSearch
+24
+rank
+11
+rank
+13
+7
+put
+17
+22
+put
+10
+28
+put
+7
+2
+put
+14
+12
+put
+12
+29
+put
+21 contains
+23
+16
+put
+16
+15
+put
+2 contains
+15
+21
+put
+max
+4 get
+17 get
+17
+12
+put
+22
+5
+inOrder rangeCount
+22
+rank
+5
+rank
+remove_min_iter 
+3 rank
+26 get
+27
+0
+put
+17 rank
+1
+11
+put
+4
+3
+put
+26 ceiling
+14
+4
+inOrder rangeCount
+14
+rank
+4
+rank
+size
+29 remove
+10 floor
+28
+25
+put
+13 ceiling
+20
+16
+put
+leaves
+23
+7
+put
+19
+1
+put
+20
+28
+put
+25
+0
+inOrder rangeSearch
+25
+rank
+0
+rank
+9
+13
+put
+22
+9
+put
+1
+19
+put
+remove_min_r 
+26
+9
+put
+21
+15
+put
+11
+19
+put
+29 get
+11
+5
+put
+18
+6
+put
+6 get
+21
+9
+put
+max
+leaves
+14 get
+remove_min_iter 
+8
+19
+put
+3
+20
+put
+6
+13
+put
+27 get
+27
+25
+put

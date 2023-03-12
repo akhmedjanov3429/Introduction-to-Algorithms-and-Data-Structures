@@ -1,0 +1,119 @@
+get 15 : null
+put: (14, 6)
+inOrder: 14:6
+rangeCount: unrecogized op
+rank: unrecogized op
+rank: unrecogized op
+put: (16, 1)
+inOrder: 14:6, 16:1
+rangeCount: unrecogized op
+rank: unrecogized op
+rank: unrecogized op
+put: (11, 23)
+put: (27, 13)
+put: (11, 19)
+put: (9, 13)
+put: (5, 14)
+put: (11, 21)
+put: (24, 14)
+put: (19, 14)
+put: (18, 1)
+put: (4, 7)
+put: (9, 29)
+remove_max_r: unrecogized op
+put: (28, 24)
+put: (21, 10)
+remove_min_r: unrecogized op
+floor: unrecogized op
+min: 4
+put: (18, 20)
+put: (16, 27)
+put: (7, 26)
+get 7 : 26
+put: (15, 1)
+put: (19, 26)
+put: (29, 17)
+put: (12, 4)
+balanced: unrecogized op
+put: (19, 29)
+put: (24, 3)
+put: (5, 14)
+put: (13, 11)
+get 14 : 6
+put: (8, 21)
+put: (16, 19)
+put: (3, 27)
+put: (9, 14)
+put: (20, 21)
+put: (5, 24)
+inOrder: 3:27, 4:7, 5:24, 7:26, 8:21, 9:14, 11:21, 12:4, 13:11, 14:6, 15:1, 16:19, 18:20, 19:29, 20:21, 21:10, 24:3, 27:13, 28:24, 29:17
+rangeSearch: unrecogized op
+rank: unrecogized op
+rank: unrecogized op
+put: (7, 13)
+put: (22, 17)
+put: (28, 10)
+put: (2, 7)
+put: (12, 14)
+put: (29, 12)
+contains: true
+put: (16, 23)
+put: (15, 16)
+contains: true
+put: (21, 15)
+max: unrecogized op
+get 4 : 7
+get 17 : null
+put: (12, 17)
+inOrder: 2:7, 3:27, 4:7, 5:24, 7:13, 8:21, 9:14, 11:21, 12:17, 13:11, 14:6, 15:16, 16:23, 18:20, 19:29, 20:21, 21:15, 22:17, 24:3, 27:13, 28:10, 29:12
+rangeCount: unrecogized op
+rank: unrecogized op
+rank: unrecogized op
+remove_min_iter: unrecogized op
+rank: unrecogized op
+get 26 : null
+put: (0, 27)
+rank: unrecogized op
+put: (11, 1)
+put: (3, 4)
+ceiling: unrecogized op
+inOrder: 0:27, 2:7, 3:4, 4:7, 5:24, 7:13, 8:21, 9:14, 11:1, 12:17, 13:11, 14:6, 15:16, 16:23, 18:20, 19:29, 20:21, 21:15, 22:17, 24:3, 27:13, 28:10, 29:12
+rangeCount: unrecogized op
+rank: unrecogized op
+rank: unrecogized op
+size: unrecogized op
+remove: unrecogized op
+floor: unrecogized op
+put: (25, 28)
+ceiling: unrecogized op
+put: (16, 20)
+leaves: unrecogized op
+put: (7, 23)
+put: (1, 19)
+put: (28, 20)
+inOrder: 0:27, 1:19, 2:7, 3:4, 4:7, 5:24, 7:23, 8:21, 9:14, 11:1, 12:17, 13:11, 14:6, 15:16, 16:20, 18:20, 19:29, 20:21, 21:15, 22:17, 24:3, 25:28, 27:13, 28:20, 29:12
+rangeSearch: unrecogized op
+rank: unrecogized op
+rank: unrecogized op
+put: (13, 9)
+put: (9, 22)
+put: (19, 1)
+remove_min_r: unrecogized op
+put: (9, 26)
+put: (15, 21)
+put: (19, 11)
+get 29 : 12
+put: (5, 11)
+put: (6, 18)
+get 6 : 18
+put: (9, 21)
+max: unrecogized op
+leaves: unrecogized op
+get 14 : 6
+remove_min_iter: unrecogized op
+put: (19, 8)
+put: (20, 3)
+put: (13, 6)
+get 27 : 13
+put: (25, 27)
+

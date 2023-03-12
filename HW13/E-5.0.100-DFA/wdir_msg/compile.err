@@ -1,0 +1,11 @@
+
+DFA.java:17: error: cannot find symbol
+            for(int i = 0; i<alphabet.lenght(); i++ ){
+                                     ^
+  symbol:   method lenght()
+  location: variable alphabet of type String
+Note: DFA.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+1 error
+
+
