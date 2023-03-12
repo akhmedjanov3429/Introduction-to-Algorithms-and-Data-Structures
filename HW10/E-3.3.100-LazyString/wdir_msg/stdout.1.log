@@ -1,0 +1,21 @@
+LazyString a: abcdef
+a.charAt(3): d
+LazyString a.substring(1): bcdef
+LazyString a.substring(1, 5): bcde
+LazyString x.substring(1, 5): bcde
+LazyString a.substring(1, 5).substring(2): de
+LazyString a.substring(1, 5).substring(2, 4): de
+LazyString x.substring(1, 5).substring(2, 4): de
+LazyString a.substring(1, 5).substring(2): de
+LazyString a.substring(1, 5).charat(2): d
+LazyString a.substring(1, 5).substring(2).toString().equals(x.substring(1,5).substring(2)): true
+LazyString a.substring(0, 3): abc
+LazyString a.substring(0): abcdef
+LazyString b: bcdefg
+LazyString b.legnth: 6
+a.compareTo(b): -1
+b.compareTo(a): 1
+LazyString a.substring(1): bcdef
+LazyString b.substring(0,b.length-1): bcdef
+a.substring(1).compareTo(b.substring(0,b.length-1)): 0
+
