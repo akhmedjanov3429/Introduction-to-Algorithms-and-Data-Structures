@@ -1,0 +1,10 @@
+
+Player.java:27: error: not a statement
+         (row[i] == row[i + 1] && row[i] != 0) {
+         ^
+Player.java:27: error: ';' expected
+         (row[i] == row[i + 1] && row[i] != 0) {
+                                              ^
+2 errors
+
+

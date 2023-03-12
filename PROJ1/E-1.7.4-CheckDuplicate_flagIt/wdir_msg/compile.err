@@ -1,0 +1,22 @@
+
+CheckDuplicate_flagIt.java:22: error: cannot find symbol
+            if ( _________________________) { 
+                 ^
+  symbol:   variable _________________________
+  location: class CheckDuplicate_flagIt
+CheckDuplicate_flagIt.java:22: error: illegal parenthesized expression
+            if ( _________________________) { 
+               ^
+CheckDuplicate_flagIt.java:30: error: cannot find symbol
+                ____________________  =  _______________ ;
+                ^
+  symbol:   variable ____________________
+  location: class CheckDuplicate_flagIt
+CheckDuplicate_flagIt.java:30: error: cannot find symbol
+                ____________________  =  _______________ ;
+                                         ^
+  symbol:   variable _______________
+  location: class CheckDuplicate_flagIt
+4 errors
+
+

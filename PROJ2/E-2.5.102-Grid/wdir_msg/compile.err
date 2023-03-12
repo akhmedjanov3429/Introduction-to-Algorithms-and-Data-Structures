@@ -1,0 +1,157 @@
+
+Grid.java:113: error: class, interface, or enum expected
+    public static void print_grid(int [][] grid, String msg){
+                  ^
+Grid.java:117: error: class, interface, or enum expected
+    }
+    ^
+Grid.java:122: error: class, interface, or enum expected
+    public static void print_grid(int [][] grid, int x, int y, String msg) {
+                  ^
+Grid.java:137: error: class, interface, or enum expected
+        }else{
+        ^
+Grid.java:139: error: class, interface, or enum expected
+            grid[x][y] -= 1;
+            ^
+Grid.java:140: error: class, interface, or enum expected
+            Array.print_2d(grid, msg);
+            ^
+Grid.java:141: error: class, interface, or enum expected
+            grid[x][y] += 1;
+            ^
+Grid.java:142: error: class, interface, or enum expected
+            grid[x][y] *= -1;
+            ^
+Grid.java:143: error: class, interface, or enum expected
+        }
+        ^
+Grid.java:153: error: class, interface, or enum expected
+    public static boolean eq_grid(int [][] a, int[][]b){
+                  ^
+Grid.java:156: error: class, interface, or enum expected
+        for(int i = 0; i<a.length; i++)
+                       ^
+Grid.java:156: error: class, interface, or enum expected
+        for(int i = 0; i<a.length; i++)
+                                   ^
+Grid.java:157: error: class, interface, or enum expected
+        for(int j = 0; j<a.length; j++)
+                       ^
+Grid.java:157: error: class, interface, or enum expected
+        for(int j = 0; j<a.length; j++)
+                                   ^
+Grid.java:161: error: class, interface, or enum expected
+    return true;
+    ^
+Grid.java:164: error: class, interface, or enum expected
+    }
+    ^
+Grid.java:170: error: class, interface, or enum expected
+    public static void update_grid(int [][] grid, int move){
+                  ^
+Grid.java:178: error: class, interface, or enum expected
+                Player.move_up(grid);return;
+                                     ^
+Grid.java:179: error: class, interface, or enum expected
+            case DOWN:
+            ^
+Grid.java:180: error: class, interface, or enum expected
+                Player.move_down(grid);return;
+                                       ^
+Grid.java:181: error: class, interface, or enum expected
+            case LEFT:
+            ^
+Grid.java:182: error: class, interface, or enum expected
+                Player.move_left(grid);return;
+                                       ^
+Grid.java:183: error: class, interface, or enum expected
+            case RIGHT:
+            ^
+Grid.java:184: error: class, interface, or enum expected
+                Player.move_right(grid);return;}
+                                        ^
+Grid.java:184: error: class, interface, or enum expected
+                Player.move_right(grid);return;}
+                                               ^
+Grid.java:193: error: class, interface, or enum expected
+    public static void main(String [] args) {
+                  ^
+Grid.java:197: error: class, interface, or enum expected
+        if (args.length>0) {
+        ^
+Grid.java:199: error: class, interface, or enum expected
+            rGen = new Random(N);
+            ^
+Grid.java:200: error: class, interface, or enum expected
+            Player.rGen = new Random(N);
+            ^
+Grid.java:201: error: class, interface, or enum expected
+            Array.rGen = new Random(N);
+            ^
+Grid.java:202: error: class, interface, or enum expected
+        }
+        ^
+Grid.java:206: error: class, interface, or enum expected
+        Player.rand_fill(m, 5);
+        ^
+Grid.java:207: error: class, interface, or enum expected
+        Array.print_2d(m, "grid");
+        ^
+Grid.java:209: error: class, interface, or enum expected
+        print_grid(m, 1,2, "marked_grid");
+        ^
+Grid.java:210: error: class, interface, or enum expected
+        print_grid(m, "unmarked_grid");
+        ^
+Grid.java:212: error: class, interface, or enum expected
+        StdOut.println("fill_count: " +  fill_count(m));
+        ^
+Grid.java:213: error: class, interface, or enum expected
+        StdOut.println("max_label: " +  max_label(m));
+        ^
+Grid.java:214: error: class, interface, or enum expected
+        StdOut.println("win: " +  win(m,32));
+        ^
+Grid.java:215: error: class, interface, or enum expected
+        StdOut.println("game_over: " +  game_over(m));
+        ^
+Grid.java:216: error: class, interface, or enum expected
+        StdOut.println("full: " +  full(m));
+        ^
+Grid.java:217: error: class, interface, or enum expected
+        StdOut.println("empty_count: " +  empty_count(m));
+        ^
+Grid.java:218: error: class, interface, or enum expected
+        StdOut.println("game_over: " +  game_over(m));
+        ^
+Grid.java:220: error: class, interface, or enum expected
+        update_grid(m, RIGHT);
+        ^
+Grid.java:221: error: class, interface, or enum expected
+        print_grid(m, "RIGHT move");
+        ^
+Grid.java:222: error: class, interface, or enum expected
+        update_grid(m, LEFT);
+        ^
+Grid.java:223: error: class, interface, or enum expected
+        print_grid(m, "LEFT move");
+        ^
+Grid.java:224: error: class, interface, or enum expected
+        update_grid(m, UP);
+        ^
+Grid.java:225: error: class, interface, or enum expected
+        print_grid(m, "UP move");
+        ^
+Grid.java:226: error: class, interface, or enum expected
+        update_grid(m, DOWN);
+        ^
+Grid.java:227: error: class, interface, or enum expected
+        print_grid(m, "DOWN move");
+        ^
+Grid.java:228: error: class, interface, or enum expected
+    }};
+    ^
+51 errors
+
+
